@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnUm" type="id"></item>
+    <item name="btnDois" type="id"></item>
+    <item name="btnTres" type="id"></item>
+    <item name="btnQuatro" type="id"></item>
+    <item name="btnCinco" type="id"></item>
+    <item name="btnSeis" type="id"></item>
+    <item name="btnSete" type="id"></item>
+    <item name="btnOito" type="id"></item>
+    <item name="btnNove" type="id"></item>
+    <item name="btnZero" type="id"></item>
+    <item name="btnAdicao" type="id"></item>
+    <item name="btnSubtracao" type="id"></item>
+    <item name="btnDivisao" type="id"></item>
+    <item name="btnMultiplicacao" type="id"></item>
+    <item name="btnVirgula" type="id"></item>
+    <item name="btnIgual" type="id"></item>
+    <item name="btnHistorico" type="id"></item>
+    <item name="btnLimpar" type="id"></item>
+    <item name="txtViewResultado" type="id"></item>
+    <item name="numeroUm" type="id"></item>
+    <item name="numeroDois" type="id"></item>
+    <item name="btnVoltar" type="id"></item>
+    <item name="input" type="id" />
+</resources>

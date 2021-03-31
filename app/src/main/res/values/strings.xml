@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CalculadoraEtapa1</string>
+    <string name="btnUm">1</string>
+    <string name="btnDois">2</string>
+    <string name="btnTres">3</string>
+    <string name="btnQuatro">4</string>
+    <string name="btnCinco">5</string>
+    <string name="btnSeis">6</string>
+    <string name="btnSete">7</string>
+    <string name="btnOito">8</string>
+    <string name="btnNove">9</string>
+    <string name="btnZero">0</string>
+    <string name="btnAdicao">+</string>
+    <string name="btnSubtracao">-</string>
+    <string name="btnDivisao">/</string>
+    <string name="btnVirgula">.</string>
+    <string name="btnIgual">=</string>
+    <string name="resultado">Resultado</string>
+    <string name="btnMultiplicacao">*</string>
+    <string name="btnHistorico">HISTÓRICO</string>
+    <string name="btnLimpar">LIMPAR</string>
+    <string name="numeroUm">Numero 1</string>
+    <string name="numeroDois">Numero 2</string>
+    <string name="btnVoltar">Voltar</string>
+    <string name="operador"> OP</string>
+    <string name="linha">__________</string>
+</resources>
